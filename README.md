@@ -1,0 +1,2 @@
+# 08_recommender-system
+in this notebook `personal_rating.ipynb` I tried to meet the expectation and only gave manually 50 ratings on an xlxs-file `pop_movies_rated.xlsx`, transformed in back in my notebook to a suitable shape and added them by the concat function to the original `ratings.csv`, which can be run through your great notebook `movies-mvp_rias.ipynb`. Here I can use the user-based recommender chat-bot.
